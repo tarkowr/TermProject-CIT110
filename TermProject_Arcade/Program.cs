@@ -205,7 +205,6 @@ namespace TermProject_Arcade
 
                     //
                     //Execute User's Choice
-                    //If game - Add to List
                     //
                     switch (game)
                     {

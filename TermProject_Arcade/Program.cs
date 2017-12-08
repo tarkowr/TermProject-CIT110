@@ -136,6 +136,7 @@ namespace TermProject_Arcade
             bool buyMoreCoins = true;
             bool exiting = false;
             bool confirmExit = false;
+            tickets = 100;
 
             //
             //Create a list to keep track of games played
